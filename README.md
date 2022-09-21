@@ -51,9 +51,9 @@ Quantifiers search the preceding characters and set minimum and maximum limits o
 - `+` - 1 or more times
 - `?` - 0 or one time
 - `{}` - provide 3 different ways to search characters 
-    1.  { a } exact number of times
-    2.  { a, } at least (minimum) number of times
-    3.  { a, b } minimum and maximum number of times
+    * { a } exact number of times
+    * { a, } at least (minimum) number of times
+    * { a, b } minimum and maximum number of times
 
 ### OR Operator
 
